@@ -1,11 +1,11 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: Containerizing a Three-Tier Application with Docker
+description: "A simple and easy to understand guide to containerize the three-tier application using docker"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "Aniket Suthar"
+  email: "apsuthar24@gmail.com"
+  url: ""
 
-baseurl: /
+baseurl: /aniket-blog
 
 source: .
 destination: ./_site
